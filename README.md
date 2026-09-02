@@ -37,50 +37,12 @@ I am an AI Engineer focused on building and benchmarking production-oriented LLM
 
 </div>
 
-## Selected projects
-
-| Project | What it demonstrates |
-|---|---|
-| [StarSeeker MCP](https://github.com/HikmetCTK/Star_Seeker_mcp) | An open-source MCP server that turns GitHub stars into a searchable knowledge base with Gemini embeddings, BM25, and rank fusion. |
-| [Voice Customer Support Assistant](https://github.com/HikmetCTK/Voice_Customer_support_Assistant) | Voice customer-support workflows with STT/TTS, sentiment analysis, and meeting scheduling. |
-| [Talk With Your Data](https://github.com/HikmetCTK/Talk-With-your-data) | Data-analysis and visualization agents for exploring datasets without writing code. |
-| [RAG Workspace](https://github.com/HikmetCTK/RAG-Workspace) | Advanced RAG experiments with Gemini and retrieval pipelines. |
-| Tool-Calling LLM Fine-Tuning | Qwen2.5-7B-Instruct fine-tuned with 4-bit QLoRA/PEFT for a Turkish clinic assistant. |
-| CUDA / Inference Optimization Lab | CUDA Graphs, bucketed batching, prefix caching, and prefill/decode isolation on T4/L4-style workloads. |
-
-## Measurable results
-
-<div align="center">
-
-| 100% | 97% | 91% | ~27% |
-|:---:|:---:|:---:|:---:|
-| format validity | tool-selection accuracy | composite tool-call accuracy | Unsloth throughput gain |
-
-</div>
-
-- Prefix caching improved vLLM output from **789.2 → 1,879.5 tok/s**.
-- Time to first token dropped from **443.3 → 138.0 ms** in the optimization lab.
-- Hybrid RAG experiments reduced context-token usage by **up to 90%**.
-
-## Experience
-
-- **ProudSec — AI Engineer:** tenant-aware CTI assistant on NVIDIA L4 with LangGraph, Elasticsearch, Redis-backed memory, live MITRE ATT&CK ingestion, vLLM, and FastAPI.
-- **Jotform — Data Science Intern:** browser-agent prototypes, RAG, and query transformation.
-- **Lotus AI — AI/ML Intern:** data applications, product search, automated reporting, and predictive models.
-- **MedData — AI/Data Intern:** healthcare analytics, anomaly detection, classification, and patient-information retrieval.
-
-## Education & certification
-
-- B.Sc. in Computer Engineering — University of Turkish Aeronautical Association, 2021–2026
-- AWS Academy Graduate — Cloud Foundations, 2026
-- English — B2 Upper-Intermediate
-
 ## Contribution animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/output/github-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.svg" width="100%" />
 </picture>
 
 <div align="center">
@@ -88,4 +50,3 @@ I am an AI Engineer focused on building and benchmarking production-oriented LLM
 <sub>Build systems that are useful, measurable, and ready for production.</sub>
 
 </div>
-
