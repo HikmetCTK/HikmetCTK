@@ -41,9 +41,9 @@ I am an AI Engineer focused on building and benchmarking production-oriented LLM
 ## Contribution animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.gif" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HikmetCTK/HikmetCTK/gh-pages/github-snake.gif" width="100%" />
 </picture>
 
 <div align="center">
