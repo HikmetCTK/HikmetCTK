@@ -31,11 +31,11 @@ I am an AI Engineer focused on building and benchmarking production-oriented LLM
 <br /><br />
 
 
-  <img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=flat-square" alt="AI Engineering" />
-  <img src="https://img.shields.io/badge/LLM-Applications-2563EB?style=flat-square" alt="LLM Applications" />
-  <img src="https://img.shields.io/badge/RAG-%26%20Agents-0891B2?style=flat-square" alt="RAG and Agents" />
-  <img src="https://img.shields.io/badge/Cost-Optimization-16A34A?style=flat-square" alt="Cost Optimization" />
-  <img src="https://img.shields.io/badge/Inference-%26%20Deployment-7C3AED?style=flat-square" alt="Inference and Deployment" />
+  <img src="https://img.shields.io/badge/1-AI%20Engineering-2563EB?style=flat-square&labelColor=4B5563" alt="1. AI Engineering" />
+  <img src="https://img.shields.io/badge/2-LLM%20Applications-2563EB?style=flat-square&labelColor=4B5563" alt="2. LLM Applications" />
+  <img src="https://img.shields.io/badge/3-RAG%20and%20Agents-0891B2?style=flat-square&labelColor=4B5563" alt="3. RAG and Agents" />
+  <img src="https://img.shields.io/badge/4-Cost%20Optimization-16A34A?style=flat-square&labelColor=4B5563" alt="4. Cost Optimization" />
+  <img src="https://img.shields.io/badge/5-Inference%20and%20Deployment-7C3AED?style=flat-square&labelColor=4B5563" alt="5. Inference and Deployment" />
 </div>
 
 ## Contribution animation
