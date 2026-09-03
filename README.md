@@ -26,14 +26,16 @@ I am an AI Engineer focused on building and benchmarking production-oriented LLM
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,aws,docker,redis,postgres,elasticsearch,kafka,git,linux&perline=11" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=ai,python,pytorch,fastapi,aws,docker,redis,postgres,elasticsearch,git,linux&perline=11" alt="Technology stack" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/LLMs-Hugging%20Face%20%7C%20Transformers%20%7C%20PEFT%20%7C%20QLoRA-2563EB?style=flat-square" alt="LLM stack" />
-<img src="https://img.shields.io/badge/RAG-Hybrid%20%7C%20Agentic%20%7C%20HyDE%20%7C%20Multimodal-0891B2?style=flat-square" alt="RAG methods" />
-<img src="https://img.shields.io/badge/Serving-vLLM%20%7C%20SGLang%20%7C%20llama.cpp-7C3AED?style=flat-square" alt="Inference stack" />
 
+  <img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=flat-square" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/LLM-Applications-2563EB?style=flat-square" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG-%26%20Agents-0891B2?style=flat-square" alt="RAG and Agents" />
+  <img src="https://img.shields.io/badge/Cost-Optimization-16A34A?style=flat-square" alt="Cost Optimization" />
+  <img src="https://img.shields.io/badge/Inference-%26%20Deployment-7C3AED?style=flat-square" alt="Inference and Deployment" />
 </div>
 
 ## Contribution animation
