@@ -18,17 +18,14 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Generate growing snake animation
-        uses: leereilly/contribution-graph-art@v1
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: HikmetCTK
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          animation_mode: "snake"
-          food_count: "15"
-          output_path: dist/contribution-graph-snake.svg
-          palette: "auto"
+          outputs: |
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
 
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v4
