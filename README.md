@@ -9,28 +9,9 @@
 <p>
   <a href="https://www.linkedin.com/in/hikmet-%C3%A7atak-6098b4218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/HikmetCTK"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://huggingface.co/Hikmet58"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 </p>
 
 </div>
-
-## Featured project
-
-### [StarSeeker MCP](https://github.com/HikmetCTK/Star_Seeker_mcp)
-
-[![MCPVault: claimed](https://mcpvault.io/badge/star-seeker-mcp.svg)](https://mcpvault.io/servers/star-seeker-mcp/health?utm_source=external_badge&utm_medium=referral&utm_campaign=mcp_health_report)
-
-An MCP server that turns your GitHub stars into a searchable knowledge base. Hybrid
-retrieval combines BM25 keyword ranking with `gemini-embedding-001` vectors, fused
-with Reciprocal Rank Fusion, and falls back to keyword-only search when no API key is
-present. Embeddings are cached against a SHA-256 fingerprint of the indexed corpus so
-a changed star list invalidates stale vectors instead of silently mismatching them.
-
-```bash
-uvx --from git+https://github.com/HikmetCTK/Star_Seeker_mcp star-seeker-mcp
-```
-
-MIT licensed, Docker-ready, listed on [MCPVault](https://mcpvault.io/servers/star-seeker-mcp).
 
 ## About me
 
